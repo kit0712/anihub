@@ -22,9 +22,9 @@
 	position:absolute;
 	width:70%; 
 	height:200px;
-    top:120px; 
+    top:77px; 
     bottom:0; 
-    left:-100; 
+    left:-40px; 
     right:0; 
     margin:auto;
 	background: 
@@ -34,7 +34,7 @@
 }
 
 .vid-info h1 { 
-	font-size: 2rem; 
+	font-size: 90px; 
 	font-weight: 700px; 
 	margin-top: 0; 
 	line-height: 1.2; 
@@ -95,7 +95,6 @@
 	background-color: #ff6b91;
 	border-radius: 30px; 
 	text-transform: uppercase;
-	color: white;
 	margin: 1rem auto;
 	width:200px;
 	height: 70px;
